@@ -66,23 +66,7 @@ Backend solution for Insecap during Hackadisc 2025 at Universidad Catolica del N
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxbast1anCZ&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ---
-
-## 🎯 What's Next
-
-- 📚 **Currently Learning:** AWS & Google Cloud Platform certifications
-- 🔐 **Planned:** CompTIA Security+ certification
-- ☁️ **Exploring:** NVIDIA Cloud infrastructure (NASA Space Apps award)
   
----
-
-## 💼 Open to Opportunities
-
-I'm actively seeking internship positions in:
-- Software Engineering
-- Cybersecurity Trainee 
-
----
-
 <div align="center">
   <i>"Building reliable, scalable solutions one commit at a time"</i>
 </div>
