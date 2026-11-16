@@ -11,11 +11,13 @@
 **Software&nbsp;Engineer** · Co-founder&nbsp;of&nbsp;Kuntur&nbsp;AI<br>
 Products and intelligent solutions for the mining&nbsp;industry
 
-*Whoever ends up using the product should feel the technology was truly designed for them.*
-
 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-cortez-silva-85345236b/) &nbsp;·&nbsp; [getkuntur.ai](https://getkuntur.ai) &nbsp;·&nbsp; Antofagasta, Chile
 
 </div>
+
+## About me
+
+I build software for the people who end up using it. Before choosing any technology, I want to understand how they actually work and what they need, and then shape the product around them. Right now I'm doing that in mining, with Kuntur AI.
 
 ## Kuntur AI
 
@@ -37,7 +39,7 @@ Mining accreditation with agentic AI for contractor SMEs in the Antofagasta regi
 
 ## Hackathons
 
-### 🥇 NASA Space Apps Challenge 2026 · Fireguard
+### 🥇 NASA Space Apps Challenge 2026 · Antofagasta winner, Global nominee · Fireguard
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/work-fireguard-dark.svg">
@@ -57,7 +59,7 @@ Challenge: harmonizing MODIS and VIIRS hotspots. Fireguard puts 26 years of NASA
   <img src="assets/work-hackadisc-light.svg" width="100%" alt="Diagram: sales, quotes and the outputs of offline machine learning models feed a KPI API, which powers a commercial dashboard with management and sales-executive views and a collections risk traffic light.">
 </picture>
 
-A commercial dashboard for Insecap with a management view and a view for each sales executive: sales, quotes, client risk and late payments in one screen per role, fed by four machine learning models that run offline. [Backend](https://github.com/sxbast1anCZ/Hackadisc-back-26) · [Frontend](https://github.com/sxbast1anCZ/Hackadisc-front-26)
+A commercial dashboard for Insecap with a management view and a view for each sales executive: sales, quotes, client risk and late payments in one screen per role, fed by four machine learning models that run offline. I led the team, analyzed Insecap's business case, and integrated and deployed the models, harmonizing their outputs with the backend. [Backend](https://github.com/sxbast1anCZ/Hackadisc-back-26) · [Frontend](https://github.com/sxbast1anCZ/Hackadisc-front-26)
 
 `FastAPI` `pandas` `SQLite` `Next.js` `React` `Machine Learning`
 
